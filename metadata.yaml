@@ -1,0 +1,36 @@
+_repo: Home-Amusements_53391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sherwood, M. E. W. (Mary Elizabeth Wilson)
+    aliases:
+    - Sherwood, Mrs. John
+    - Sherwood, Mary Elizabeth Wilson
+    - Sherwood, E. W. (Elizabeth Wilson)
+    birthdate: 1826
+    deathdate: 1903
+    gutenberg_agent_id: '2722'
+    url: http://www.gutenberg.org/2009/agents/2722
+description: ''
+gutenberg_issued: '2016-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53391'
+  lccn: '15012198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcc 'GV'
+- !lcsh 'Amusements'
+- GITenberg
+tableOfContents: Prefatory -- The garret -- Private theatricals, etc. -- Tableaux
+  vivants -- Brain games -- Fortune-telling -- Amusements for a rainy day -- Embroidery
+  and other decorative arts -- Etching -- Lawn tennis -- Garden parties -- Dancing
+  -- Gardens and flower-stands -- Caged birds and aviaries -- Picnics -- Playing with
+  fire. Ceramics -- Archery -- Amusements for the middle-aged and the aged -- The
+  parlor -- The kitchen -- The family horse and other pets -- In conclusion.
+title: Home Amusements
+url: http://www.gutenberg.org/ebooks/53391
